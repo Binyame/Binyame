@@ -4386,6 +4386,7 @@ input[type="button"].btn-block {
 
 .navbar-collapse {
   -ms-flex-preferred-size: 100%;
+  margin: 0 10px;
   flex-basis: 100%;
   -ms-flex-positive: 1;
   flex-grow: 1;
